@@ -1,6 +1,47 @@
+##  👋 Olá;
+<p>
+  👨‍💻 Me chamo Leonardo Scherer. Atualmente moro em Porto Alegre/RS, Brasil e trabalho com desenvolvimento web, no back-end com foco em PHP/Laravel.
+</p>
+<p>
+  📖 Estou constantemente estudando novas linguagens/frameworks e subindo os repositórios aqui no GitHub 😁
+</p>
+
+<a href="https://www.linkedin.com/in/leonardo-scherer-blacena/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+
+
 ![Snake animation](https://github.com/LeonardoScherer/LeonardoScherer/blob/output/github-contribution-grid-snake.svg)
 
+## 🔥 Hard Skills
+
+<ul>
+	<li>PHP - Laravel</li>
+	<li>JavaScript - Vue.js - Node.js</li>
+	<li>SQL</li>
+</ul>
+
+## ⚙️ Ferramentas
+
+<ul>
+	<li>Linux</li>
+	<li>VSCode</li>
+	<li>Postman</li>
+	<li>Git - GitHub</li>
+	<li>Docker</li>
+</ul>
+
+## 💡 Soft Skills
+
+<ul>
+	<li>Gerenciamento de tempo</li>
+	<li>Trabalho em equipe</li>
+	<li>Criatividade para resolução de problemas</li>
+	<li>Pensamento crítico</li>
+</ul>
+
 ##
+
 
 <div style="display: inline_block">
   <br> 
@@ -15,6 +56,4 @@
           
 </div>
 
-##
 
-<a href="https://www.linkedin.com/in/leonardo-scherer-blacena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
